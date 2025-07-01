@@ -5,9 +5,6 @@ return nil -- Stops execution if viewed raw
 
 -- REAL SCRIPT (hidden, extracts only in-game)
 --[[
--- PASTE YOUR ACTUAL SCRIPT HERE
-print("Hello from the real script!")
--- Your ESP/Aimbot code goes below this line
 -- DEEPXWEL SLR WORKING v6.9
 -- FOR EDUCATIONAL PURPOSES ONLY
 
