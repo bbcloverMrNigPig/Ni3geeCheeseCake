@@ -1,10 +1,3 @@
--- FAKE MESSAGE (visible when opened directly)
-print("⚠️ WARNING: Your IP has been logged!")
-print("This script is protected.")
-return nil -- Stops execution if viewed raw
-
--- REAL SCRIPT (hidden, extracts only in-game)
---[[
 -- DEEPXWEL SLR WORKING v6.9
 -- FOR EDUCATIONAL PURPOSES ONLY
 
@@ -158,5 +151,3 @@ for _, player in ipairs(Players:GetPlayers()) do
     CreateESP(player)
 end
 Players.PlayerAdded:Connect(CreateESP)
-
---]]
